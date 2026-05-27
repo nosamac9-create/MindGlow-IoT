@@ -97,7 +97,7 @@ The complete development process — from buttons to final wiring — is documen
 
 You can also browse the [posters](posters/MindGlow%20Posters/) folder for our marketing visuals.
 
-## 👥 Team BrightMinds
+##  Team BrightMinds
 
 **Course:** CCSW432 — Internet of Things  
 **Section:** SE3  
@@ -111,7 +111,7 @@ You can also browse the [posters](posters/MindGlow%20Posters/) folder for our ma
 | Jana Yasser Akkad | 
 | Rawan Bakashwin | 
 
-## 🎓 Conclusion
+##  Conclusion
 
 MindGlow demonstrates how IoT technologies can be applied to create interactive, engaging, and intelligent systems. By combining hardware components, embedded programming, and cloud connectivity, the project successfully delivers a fun memory-based game while showcasing practical IoT concepts learned in CCSW432.
 
