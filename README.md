@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="posters/1.png" alt="MindGlow — Mini Arcade" width="450"/>
+<img src="posters/MindGlow%20Posters/1.png" alt="MindGlow — Mini Arcade" width="450"/>
 
 # 🕹️ MindGlow
 
@@ -93,9 +93,9 @@ MindGlow uses **Blynk** to monitor player performance in real time. Scores and g
 
 The complete development process — from buttons to final wiring — is documented in the project report:
 
-📑 **[Read the Full Project Report](docs/MindGlow_Project.pdf)**
+📑 **[Read the Full Project Report](docs/MindGlow%20Project.pdf)**
 
-You can also browse the [posters](posters/) folder for our marketing visuals.
+You can also browse the [posters](posters/MindGlow%20Posters/) folder for our marketing visuals.
 
 ## 👥 Team BrightMinds
 
