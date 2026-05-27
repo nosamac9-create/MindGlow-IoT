@@ -104,12 +104,12 @@ You can also browse the [posters](posters/MindGlow%20Posters/) folder for our ma
 **Institution:** University of Jeddah — College of Computer Science and Engineering  
 **Semester:** Fall 2026
 
-| Name | ID |
-|------|-----|
-| Remas Nafea Alsulami | 2310961 |
-| Enas Hamed Alqarni | 2314104 |
-| Jana Yasser Akkad | 2313200 |
-| Rawan Bakashwin | 2312084 |
+| Name |
+|------|
+| Remas Nafea Alsulami |
+| Enas Hamed Alqarni | 
+| Jana Yasser Akkad | 
+| Rawan Bakashwin | 
 
 ## 🎓 Conclusion
 
